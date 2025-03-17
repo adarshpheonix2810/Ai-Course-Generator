@@ -3,7 +3,7 @@
 This repository contains the source code for an AI-powered course generator application. Users can input their data, preview the course structure as they fill it, and generate professional course outlines. Additionally, the application includes features such as AI-generated summaries, data storage, and management through Neon Postgres, and an integrated AI chatbot for assistance.
 
 ## Live Site
-You can access the live application here.
+You can access the live application here.[coursesgen.vercel.app/]
 
 ## Table of Contents
 - [Introduction](#introduction)
